@@ -1,2 +1,0 @@
-# samplephp
-a tutorial project
